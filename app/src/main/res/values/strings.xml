@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">test compose</string>
+    <string name="placeholder_search">Cari..</string>
+    <string name="ab1_inversions">Cari..</string>
+    <string name="ab2_inversions">Cari..</string>
+    <string name="ab3_inversions">Cari..</string>
+    <string name="ab4_inversions">Cari..</string>
+
 </resources>

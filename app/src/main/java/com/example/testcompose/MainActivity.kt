@@ -38,6 +38,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     TestComposeTheme {
-        Greeting("firman")
+        Greeting("firmansyah diana")
     }
 }
